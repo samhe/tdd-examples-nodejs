@@ -14,7 +14,7 @@
     "axios": "^0.17.1",
     "express": "^4.16.2",
     "lodash": "^4.17.4",
-    "moment": "^2.19.2",
+    "moment": "^2.29.2",
     "mongoose": "^4.13.3"
   },
   "devDependencies": {
